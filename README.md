@@ -1,2 +1,2 @@
 # bluzelle-rightmesh
-Demo of Interop between Bluezelle and RightMesh
+Demo of Interop between Bluzelle and RightMesh
